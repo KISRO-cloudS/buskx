@@ -15,49 +15,67 @@ Search like this:
 site:instagram.com "day 1 of" fitness
 
 or
+Here's the single list. No categories. Just search terms that map directly to Rallynex's two journey types.
 
-site:instagram.com "30 day challenge"
-Code / Builders
+---
 
-"Day 47 of #100DaysOfCode"
+**Day-by-Day Journey Search Terms**
 
-"Week 6 update"
+```
+"day 1" "day 2"
+"day 1 of"
+"week 1" "week 2"
+"part 1" "part 2"
+"attempt 1"
+"round 1"
+"session 1"
+"#100daysofcode"
+"#75hard"
+"30 days of"
+"day one"
+"starting today"
+"here goes day 1"
+"first day of"
+```
 
-"Sprint 3 done"
+---
 
-"MVP progress"
+**Milestone Journey Search Terms**
 
-"Building in public log"
+```
+"where i started vs"
+"from this to this"
+"before and after"
+"progress so far"
+"how it started how it's going"
+"evolution of my"
+"then vs now"
+"level 1 to"
+"phase 1"
+"my journey from"
+"what i built vs what i"
+"two months ago vs"
+"look how far"
+"trust the process"
+```
 
-Artists / Makers
+---
 
-"#The100DayProject day 32"
+**Both Types (Hybrid)**
 
-"Sketchbook tour part"
+```
+"accountability post"
+"documenting my"
+"come with me"
+"building in public"
+"progress update"
+"small wins"
+"showing up everyday"
+"consistency check"
+"another one down"
+"keeping myself accountable"
+```
 
-"WIP thread"
+---
 
-"Process video part"
-
-"From sketch to final"
-
-Writers / Learners
-
-"Month 2 of learning"
-
-"Reading log week"
-
-"Language learning day"
-
-"30 days of writing"
-
-Fitness (with data)
-
-"Week 8 weigh in"
-
-"Progress pics week"
-
-"Lift log"
-
-"Run log km"
-
+That's it. Copy and search.
