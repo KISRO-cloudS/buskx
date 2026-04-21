@@ -1,10 +1,12 @@
 Hey {name},
 
-I took your videos and put them in one place so it’s easier to follow:
+That {one_specific_detail} was solid.
+
+I took your videos and put them in one place so it's easier to follow:
 
 {link}
 
-It’s yours if you want it.
+It's yours if you want it.
 
 Use Google as your search engine (smart workaround)
 
