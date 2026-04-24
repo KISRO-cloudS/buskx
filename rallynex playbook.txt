@@ -22,60 +22,112 @@ Here's the single list. No categories. Just search terms that map directly to Ra
 **Day-by-Day Journey Search Terms**
 
 ```
-"day 1" "day 2"
-"day 1 of"
-"week 1" "week 2"
-"part 1" "part 2"
-"attempt 1"
-"round 1"
-"session 1"
+
+"day 1 of" 
+"part 1 of" 
+"week 1 of "
 "#100daysofcode"
 "#75hard"
 "30 days of"
-"day one"
-"starting today"
-"here goes day 1"
-"first day of"
-```
+"day one of"
+"here goes day 1 of"
+
+
+
+
+
+
+
+
+
+---Smart strategy. Here's how to do it without getting banned or ignored.
 
 ---
 
-**Milestone Journey Search Terms**
+## The Rule: 80% Value, 20% Promotion
 
-```
-"where i started vs"
-"from this to this"
-"before and after"
-"progress so far"
-"how it started how it's going"
-"evolution of my"
-"then vs now"
-"level 1 to"
-"phase 1"
-"my journey from"
-"what i built vs what i"
-"two months ago vs"
-"look how far"
-"trust the process"
-```
+For every 5 comments you make, only 1 should mention your tool. The other 4 should be purely helpful.
 
 ---
 
-**Both Types (Hybrid)**
+## Where to Post
 
-```
-"accountability post"
-"documenting my"
-"come with me"
-"building in public"
-"progress update"
-"small wins"
-"showing up everyday"
-"consistency check"
-"another one down"
-"keeping myself accountable"
-```
+### Reddit (daily, 10-15 minutes)
+
+| Subreddit | What to say |
+|:---|:---|
+| r/freelance | Help with pricing, client management, invoicing questions |
+| r/smallbusiness | Tips on organizing data, tracking invoices |
+| r/Upwork | Advice for new freelancers on professionalism |
+| r/virtualassistant | Help with CSV management, client onboarding |
+| r/excel | Point people to CSV Dashboard when they complain about large files |
+
+### Facebook Groups (search and join 5-10)
+
+- "Freelance Digital Marketing"
+- "Virtual Assistant Tribe"
+- "Freelancers Union"
+- "Small Business Owners Network"
+- "Upwork Freelancers"
+
+### Other platforms
+
+- Indie Hackers (indiehackers.com) — post about your build journey
+- Hacker News — occasional relevant comments
 
 ---
 
+## Comment Templates
+
+### Value-only comment (use these 80% of the time)
+
+**On invoicing problems:**
+> "I used to send duplicate invoice numbers all the time. The trick is to separate your invoice numbering from your spreadsheet sorting — sort one, and the numbers go out of order. Keep a separate ledger even if it's just a simple list."
+
+**On client management:**
+> "The simplest system is a single CSV file with columns for client name, project, status, and next action. Sort and filter as needed. No fancy CRM required until you have 50+ active clients."
+
+**On email outreach:**
+> "Personalize each email with at least the client's name and one specific detail about their business. Generic copy-paste gets ignored. It takes more time but response rates triple."
+
+---
+
+### Soft-promo comment (use these 20% of the time)
+
+**After helping someone:**
+> "I actually got so frustrated with this that I built a simple desktop tool for it. It's called Invoice Number Tracker — blocks duplicates and tracks statuses. But honestly even a paper notebook works if you're consistent."
+
+**When someone asks for recommendations:**
+> "There are cloud tools for this, but I prefer offline desktop stuff — no subscriptions, data stays local. I use a few simple tools from Gumroad (CSV Dashboard for viewing large files, Invoice Tracker for numbering)."
+
+**Sharing your story:**
+> "I'm a developer and I built a few tools to solve my own freelancing headaches — invoice tracking, bulk quotes, email personalization. Put them on Gumroad. Not getting rich but they save me hours every week."
+
+---
+
+## Daily Routine (15 minutes)
+
+1. Open Reddit, scan r/freelance and r/smallbusiness (5 min)
+2. Leave 2-3 helpful comments with no promo (5 min)
+3. If there's a relevant thread where someone asks for a tool, make 1 soft recommendation (2 min)
+4. Reply to any responses (3 min)
+
+Do this 5 days a week. After 30 days, you'll have:
+- 100+ helpful comments
+- 20+ soft promotions
+- A reputation as someone who knows freelancing
+- Steady trickle of Gumroad visits
+
+---
+
+## What NOT to do
+
+❌ "Buy my tool!" — instant ban
+❌ Copy-paste the same comment everywhere
+❌ Only comment when promoting
+❌ Argue with people who criticize
+
+---
+
+Want me to write your first 3 Reddit comments right now so you can post them today?
 That's it. Copy and search.
