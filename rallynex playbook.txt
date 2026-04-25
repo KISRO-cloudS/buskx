@@ -162,94 +162,120 @@ Never pitch money in the DM. The link sells itself.
 
 
 
----Smart strategy. Here's how to do it without getting banned or ignored.
 
----
 
-## The Rule: 80% Value, 20% Promotion
 
-For every 5 comments you make, only 1 should mention your tool. The other 4 should be purely helpful.
 
----
 
-## Where to Post
 
-### Reddit (daily, 10-15 minutes)
+===========================================
+DIGITAL PRODUCTS PROMOTION STRATEGY
+===========================================
 
-| Subreddit | What to say |
-|:---|:---|
-| r/freelance | Help with pricing, client management, invoicing questions |
-| r/smallbusiness | Tips on organizing data, tracking invoices |
-| r/Upwork | Advice for new freelancers on professionalism |
-| r/virtualassistant | Help with CSV management, client onboarding |
-| r/excel | Point people to CSV Dashboard when they complain about large files |
+CORE RULE: 80% Value, 20% Soft Promo
+Never pitch directly. Be helpful first, mention tools second.
 
-### Facebook Groups (search and join 5-10)
+PRODUCTS:
+- CSV Dashboard (view large files)
+- Invoice Number Tracker
+- Bulk Quote Generator
+- Email Personalization Tool
 
-- "Freelance Digital Marketing"
-- "Virtual Assistant Tribe"
-- "Freelancers Union"
-- "Small Business Owners Network"
-- "Upwork Freelancers"
+===========================================
+WHERE TO POST (15 MIN/DAY)
+===========================================
 
-### Other platforms
+REDDIT:
+r/freelance       → pricing, clients, invoicing
+r/smallbusiness   → tracking, organizing data
+r/Upwork          → new freelancer advice
+r/virtualassistant → CSV, onboarding, admin
+r/excel           → large file complaints → CSV Dashboard
 
-- Indie Hackers (indiehackers.com) — post about your build journey
-- Hacker News — occasional relevant comments
+FACEBOOK GROUPS (join 5-10):
+"Freelance Digital Marketing"
+"Virtual Assistant Tribe"
+"Freelancers Union"
+"Small Business Owners Network"
+"Upwork Freelancers"
 
----
+OTHER:
+indiehackers.com  → post your build journey
+Hacker News       → occasional relevant comments
 
-## Comment Templates
+===========================================
+VALUE-ONLY COMMENTS (80% of posts)
+===========================================
 
-### Value-only comment (use these 80% of the time)
+Invoicing problems:
+"I used to send duplicate invoice numbers all the time.
+The trick is to separate your invoice numbering from
+your spreadsheet sorting — sort one, and the numbers go
+out of order. Keep a separate ledger even if it's just
+a simple list."
 
-**On invoicing problems:**
-> "I used to send duplicate invoice numbers all the time. The trick is to separate your invoice numbering from your spreadsheet sorting — sort one, and the numbers go out of order. Keep a separate ledger even if it's just a simple list."
+Client management:
+"The simplest system is a single CSV file with columns
+for client name, project, status, and next action. Sort
+and filter as needed. No fancy CRM required until you
+have 50+ active clients."
 
-**On client management:**
-> "The simplest system is a single CSV file with columns for client name, project, status, and next action. Sort and filter as needed. No fancy CRM required until you have 50+ active clients."
+Email outreach:
+"Personalize each email with at least the client's name
+and one specific detail about their business. Generic
+copy-paste gets ignored. It takes more time but response
+rates triple."
 
-**On email outreach:**
-> "Personalize each email with at least the client's name and one specific detail about their business. Generic copy-paste gets ignored. It takes more time but response rates triple."
+===========================================
+SOFT-PROMO COMMENTS (20% of posts)
+===========================================
 
----
+After helping someone:
+"I actually got so frustrated with this that I built a
+simple desktop tool for it. It's called Invoice Number
+Tracker — blocks duplicates and tracks statuses. But
+honestly even a paper notebook works if you're consistent."
 
-### Soft-promo comment (use these 20% of the time)
+When someone asks for recommendations:
+"There are cloud tools for this, but I prefer offline
+desktop stuff — no subscriptions, data stays local. I
+use a few simple tools from Gumroad (CSV Dashboard for
+viewing large files, Invoice Tracker for numbering)."
 
-**After helping someone:**
-> "I actually got so frustrated with this that I built a simple desktop tool for it. It's called Invoice Number Tracker — blocks duplicates and tracks statuses. But honestly even a paper notebook works if you're consistent."
+Sharing your story:
+"I'm a developer and I built a few tools to solve my own
+freelancing headaches — invoice tracking, bulk quotes,
+email personalization. Put them on Gumroad. Not getting
+rich but they save me hours every week."
 
-**When someone asks for recommendations:**
-> "There are cloud tools for this, but I prefer offline desktop stuff — no subscriptions, data stays local. I use a few simple tools from Gumroad (CSV Dashboard for viewing large files, Invoice Tracker for numbering)."
-
-**Sharing your story:**
-> "I'm a developer and I built a few tools to solve my own freelancing headaches — invoice tracking, bulk quotes, email personalization. Put them on Gumroad. Not getting rich but they save me hours every week."
-
----
-
-## Daily Routine (15 minutes)
-
-1. Open Reddit, scan r/freelance and r/smallbusiness (5 min)
-2. Leave 2-3 helpful comments with no promo (5 min)
-3. If there's a relevant thread where someone asks for a tool, make 1 soft recommendation (2 min)
+===========================================
+DAILY ROUTINE (15 minutes)
+===========================================
+1. Open Reddit, scan r/freelance + r/smallbusiness (5 min)
+2. Leave 2-3 helpful comments, no promo (5 min)
+3. Find 1 thread asking for tool recommendations →
+   make 1 soft recommendation (2 min)
 4. Reply to any responses (3 min)
 
-Do this 5 days a week. After 30 days, you'll have:
-- 100+ helpful comments
-- 20+ soft promotions
-- A reputation as someone who knows freelancing
-- Steady trickle of Gumroad visits
+Do 5 days/week. After 30 days:
+→ 100+ helpful comments
+→ 20+ soft promos
+→ Reputation as freelancing expert
+→ Steady Gumroad traffic
 
----
-
-## What NOT to do
-
+===========================================
+WHAT NOT TO DO
+===========================================
 ❌ "Buy my tool!" — instant ban
-❌ Copy-paste the same comment everywhere
+❌ Copy-paste same comment everywhere
 ❌ Only comment when promoting
-❌ Argue with people who criticize
+❌ Argue with critics
+❌ Spam links without context
 
----
+===========================================
 
-Want me to write your first 3 Reddit comments right now so you can post them today?
-That's it. Copy and search.
+
+
+
+
+
