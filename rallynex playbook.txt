@@ -179,117 +179,160 @@ Never pitch money in the DM. The link sells itself.
 
 
 
-
-
-
 ===========================================
-DIGITAL PRODUCTS PROMOTION STRATEGY
+DAILY REDDIT PROMOTION — MASTER SHEET
 ===========================================
 
-CORE RULE: 80% Value, 20% Soft Promo
-Never pitch directly. Be helpful first, mention tools second.
+CORE RULE:
+80% help. 20% mention your thing. Never pitch directly.
 
-PRODUCTS:
+MY TOOLS:
 - CSV Dashboard (view large files)
 - Invoice Number Tracker
 - Bulk Quote Generator
 - Email Personalization Tool
 
 ===========================================
-WHERE TO POST (15 MIN/DAY)
+WHERE I POST
 ===========================================
 
 REDDIT:
-r/freelance       → pricing, clients, invoicing
-r/smallbusiness   → tracking, organizing data
-r/Upwork          → new freelancer advice
+r/freelance        → pricing, clients, invoicing
+r/smallbusiness    → tracking, organizing data
+r/Upwork           → new freelancer advice
 r/virtualassistant → CSV, onboarding, admin
-r/excel           → large file complaints → CSV Dashboard
+r/excel            → large files, crashing → CSV Dashboard
 
-FACEBOOK GROUPS (join 5-10):
-"Freelance Digital Marketing"
-"Virtual Assistant Tribe"
-"Freelancers Union"
-"Small Business Owners Network"
-"Upwork Freelancers"
+FACEBOOK GROUPS:
+Freelance Digital Marketing
+Virtual Assistant Tribe
+Freelancers Union
+Small Business Owners Network
+Upwork Freelancers
 
 OTHER:
-indiehackers.com  → post your build journey
-Hacker News       → occasional relevant comments
+indiehackers.com
+Hacker News (occasional)
 
 ===========================================
-VALUE-ONLY COMMENTS (80% of posts)
+HOW I FIND POSTS FAST
 ===========================================
 
-Invoicing problems:
+WHAT TO SEARCH IN EACH SUB:
+
+r/freelance:
+invoice | client | pricing | how much to charge
+late payment | proposal | quoting | scope creep
+
+r/smallbusiness:
+organizing | tracking | spreadsheet | csv
+data | inventory | bulk | duplicate | system
+
+r/Upwork:
+new | starting | advice | first client
+profile | portfolio | getting jobs
+
+r/virtualassistant:
+CSV | onboarding | admin | organize clients
+spreadsheet | tracking tasks | systems
+
+r/excel:
+large file | crashing | too big | won't open
+slow | freeze | CSV | rows | millions
+
+===========================================
+HOW I USE SEARCH
+===========================================
+
+1. Type keyword in subreddit search bar
+2. Sort results by "NEW"
+3. Filter by flair: Questions / Help / Advice
+4. Skip: Rants, Off-Topic, Promo posts
+
+Use these if helpful:
+self:yes → text posts only
+created:2026-04-20..2026-04-26 → last week only
+
+===========================================
+MY DAILY ROUTINE — 15 MIN
+===========================================
+
+Min 0-2:
+Open Reddit. Go to 2 subreddits. Search a keyword. Sort by New.
+
+Min 2-5:
+Open 4-5 posts that are questions or problems.
+
+Min 5-10:
+Leave 2-3 helpful comments. Just help. No links. No tool names.
+
+Min 10-13:
+Find 1 post asking "any tools for this?" → mention my tool naturally.
+
+Min 13-15:
+Reply to any replies or DMs.
+
+5 days a week.
+
+===========================================
+MY COMMENT STYLES
+===========================================
+
+VALUE COMMENTS (most of what I post):
+
+For invoicing:
 "I used to send duplicate invoice numbers all the time.
-The trick is to separate your invoice numbering from
-your spreadsheet sorting — sort one, and the numbers go
-out of order. Keep a separate ledger even if it's just
-a simple list."
+Separate your invoice numbering from your spreadsheet
+sorting. Sort one, numbers go out of order. Keep a
+separate ledger even if it's just a simple list."
 
-Client management:
-"The simplest system is a single CSV file with columns
-for client name, project, status, and next action. Sort
-and filter as needed. No fancy CRM required until you
-have 50+ active clients."
+For client tracking:
+"A single CSV file with columns for client name, project,
+status, and next action. Sort and filter as needed.
+No CRM needed until 50+ active clients."
 
-Email outreach:
-"Personalize each email with at least the client's name
-and one specific detail about their business. Generic
-copy-paste gets ignored. It takes more time but response
-rates triple."
+For email outreach:
+"Personalize each email with their name and one detail
+about their business. Generic copy-paste gets ignored.
+Takes more time but response rates triple."
 
 ===========================================
-SOFT-PROMO COMMENTS (20% of posts)
-===========================================
+SOFT PROMOS (only when relevant)
 
 After helping someone:
-"I actually got so frustrated with this that I built a
-simple desktop tool for it. It's called Invoice Number
-Tracker — blocks duplicates and tracks statuses. But
-honestly even a paper notebook works if you're consistent."
+"I got so frustrated with this I built a simple desktop
+tool for it. Called Invoice Number Tracker — blocks
+duplicates and tracks statuses. But honestly even a
+notebook works if you're consistent."
 
 When someone asks for recommendations:
-"There are cloud tools for this, but I prefer offline
-desktop stuff — no subscriptions, data stays local. I
-use a few simple tools from Gumroad (CSV Dashboard for
-viewing large files, Invoice Tracker for numbering)."
+"I prefer offline desktop stuff — no subscriptions,
+data stays local. I use a few tools from Gumroad
+(CSV Dashboard for large files, Invoice Tracker)."
 
-Sharing your story:
-"I'm a developer and I built a few tools to solve my own
-freelancing headaches — invoice tracking, bulk quotes,
-email personalization. Put them on Gumroad. Not getting
-rich but they save me hours every week."
+Sharing my story:
+"I built a few tools to solve my own freelancing problems
+— invoice tracking, bulk quotes, email personalization.
+Put them on Gumroad. Not getting rich but saves me hours."
 
 ===========================================
-DAILY ROUTINE (15 minutes)
-===========================================
-1. Open Reddit, scan r/freelance + r/smallbusiness (5 min)
-2. Leave 2-3 helpful comments, no promo (5 min)
-3. Find 1 thread asking for tool recommendations →
-   make 1 soft recommendation (2 min)
-4. Reply to any responses (3 min)
-
-Do 5 days/week. After 30 days:
-→ 100+ helpful comments
-→ 20+ soft promos
-→ Reputation as freelancing expert
-→ Steady Gumroad traffic
-
-===========================================
-WHAT NOT TO DO
-===========================================
-❌ "Buy my tool!" — instant ban
-❌ Copy-paste same comment everywhere
-❌ Only comment when promoting
-❌ Argue with critics
-❌ Spam links without context
-
+WHAT I DON'T DO
 ===========================================
 
+- Say "Buy my tool"
+- Copy-paste same comment everywhere
+- Only show up to promote
+- Argue with people
+- Drop links with no context
 
+===========================================
+AFTER 30 DAYS (5 days/week)
+===========================================
 
+~100 helpful comments
+~20 soft promos
+Known as helpful in the subs
+Steady visits to Gumroad
 
-
+===========================================
 
