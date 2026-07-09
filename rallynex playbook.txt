@@ -1,22 +1,55 @@
-Here are the essential commands you need to save and use for your Rallynex bot:
+Here are the essential commands for your Rallynex bot:
 
-📋 Quick Reference Commands
-🚀 Run Once
+🚀 Start / Stop / Status
 cmd
-bun run workflow run --id x-search-reply --config "{\"searchQuery\":\"documenting my journey OR tracking progress OR building in public OR daily progress\",\"maxPosts\":1,\"cdpPort\":9222,\"xUsername\":\"Rallynex\"}"
-🔄 Run Continuously (Every 10 Minutes)
-cmd
-bun run workflow daemon --id x-search-reply --interval 10 --config "{\"searchQuery\":\"documenting my journey OR tracking progress OR building in public OR daily progress\",\"maxPosts\":1,\"cdpPort\":9222,\"xUsername\":\"Rallynex\"}"
-⏹️ Stop the Bot
+bun run workflow daemon --id x-search-reply --interval 10
+Starts the bot (runs every 10 minutes)
+
 cmd
 bun run workflow stop --id x-search-reply
-🔍 Check Bot Status
+Stops the bot
+
 cmd
 bun run workflow status --id x-search-reply
-📋 List All Workflows
+Checks if the bot is running
+
+🔍 Run Once (Test)
+cmd
+bun run workflow run --id x-search-reply
+Runs the bot once (good for testing)
+
+📋 Other Commands
 cmd
 bun run workflow list
+Shows all available workflows
 
+cmd
+bun run workflow reset --id x-search-reply
+Resets the bot (clears error state)
+
+💡 Quick Summary
+Action	Command
+Start	bun run workflow daemon --id x-search-reply --interval 10
+Stop	bun run workflow stop --id x-search-reply
+Status	bun run workflow status --id x-search-reply
+Test once	bun run workflow run --id x-search-reply
+🎯 Aliases (Optional)
+Create a rallynex.bat file with:
+
+batch
+@echo off
+if "%1"=="start" bun run workflow daemon --id x-search-reply --interval 10
+if "%1"=="stop" bun run workflow stop --id x-search-reply
+if "%1"=="status" bun run workflow status --id x-search-reply
+if "%1"=="test" bun run workflow run --id x-search-reply
+Then use:
+
+cmd
+rallynex start
+rallynex stop
+rallynex status
+rallynex test
+That's it! 🎉 Your bot is running and targeting the right audience.
 
 Category 1: Social Media Problems
 Why Instagram Is The Worst Place To Document A Transformation
