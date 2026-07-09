@@ -50,6 +50,27 @@ rallynex stop
 rallynex status
 rallynex test
 That's it! 🎉 Your bot is running and targeting the right audience.
+for repling to notifications 
+bun run run-notification-bot.js
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Category 1: Social Media Problems
 Why Instagram Is The Worst Place To Document A Transformation
