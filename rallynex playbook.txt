@@ -1,3 +1,21 @@
+Here are the essential commands you need to save and use for your Rallynex bot:
+
+📋 Quick Reference Commands
+🚀 Run Once
+cmd
+bun run workflow run --id x-search-reply --config "{\"searchQuery\":\"documenting my journey OR tracking progress OR building in public OR daily progress\",\"maxPosts\":1,\"cdpPort\":9222,\"xUsername\":\"Rallynex\"}"
+🔄 Run Continuously (Every 10 Minutes)
+cmd
+bun run workflow daemon --id x-search-reply --interval 10 --config "{\"searchQuery\":\"documenting my journey OR tracking progress OR building in public OR daily progress\",\"maxPosts\":1,\"cdpPort\":9222,\"xUsername\":\"Rallynex\"}"
+⏹️ Stop the Bot
+cmd
+bun run workflow stop --id x-search-reply
+🔍 Check Bot Status
+cmd
+bun run workflow status --id x-search-reply
+📋 List All Workflows
+cmd
+bun run workflow list
 
 
 Category 1: Social Media Problems
