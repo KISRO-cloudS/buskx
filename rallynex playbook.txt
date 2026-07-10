@@ -54,7 +54,85 @@ for repling to notifications
 bun run run-notification-bot.js
 
 
+The Chrome session has crashed or disconnected. Let's restart it.
 
+## 🔧 Step 1: Kill Chrome completely
+
+```cmd
+taskkill /F /IM chrome.exe
+```
+
+## 🔧 Step 2: Restart Chrome with debugging
+
+```cmd
+bun run setup-chrome
+```
+
+Wait for it to say "OK Chrome setup complete."
+
+## 🔧 Step 3: Verify Chrome is running
+
+```cmd
+netstat -ano | findstr 9222
+```
+
+You should see connections on port 9222.
+
+## 🔧 Step 4: Log in to X
+
+1. Look at the Chrome window that opened
+2. Go to **x.com**
+3. **Log in** to your account
+4. Keep the tab open
+
+## 🔧 Step 5: Run the bot once to test
+
+```cmd
+bun run workflow run --id x-search-reply
+```
+
+## 🔧 Step 6: If it works, start the daemon
+
+```cmd
+bun run workflow daemon --id x-search-reply --interval 10
+```
+
+---
+
+## 🛠️ If It Still Times Out
+
+The timeout might be too short. Increase it by editing the file:
+
+```cmd
+notepad workflows\executors\x-search-reply.ts
+```
+
+Find the `ab` function and change the timeout:
+
+```typescript
+function ab(cmd: string, timeoutMs: number = 120000): string {
+```
+
+Change `60000` to `120000` (2 minutes).
+
+Find the `wait` commands in `main()` and increase them:
+
+```typescript
+ab('wait 10000')  // Instead of 5000
+ab('wait 15000')  // Instead of 8000
+```
+
+Save and try again.
+
+---
+
+## 💡 Quick Tip
+
+The bot needs Chrome to be **running with the debugging port open** AND you must be **logged into X.com** in that Chrome window. If either of these is missing, the bot will timeout.
+
+---
+
+**Try Step 1-5 and let me know what happens!** 🚀
 
 
 
