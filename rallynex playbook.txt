@@ -1,3 +1,4 @@
+for posting.... bun run workflows/x-post.ts
 Here are the essential commands for your Rallynex bot:
 
 🚀 Start / Stop / Status
