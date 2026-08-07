@@ -1,462 +1,56 @@
-I think your vision is ambitious enough that it needs a **product roadmap**, not just a feature roadmap. Every stage should make money while also building a capability you'll need for the Intent Operating System.
+# Human Intent AI
 
-# North Star (10-Year Vision)
+## The Vision
 
-> **An Intent Operating System where people express goals instead of using apps.**
+Human Intent AI is an intelligent operating system that executes human intent instead of requiring people to operate software. Rather than opening dozens of applications, learning different interfaces, and manually coordinating work, users simply describe the outcome they want. The AI plans, decides, and executes the necessary actions across connected services while keeping the user in control.
 
-The user never thinks about Gmail, Notion, Calendar, Stripe, or Slack.
+The mission is simple:
 
-They simply say:
+**Humans should focus on deciding what they want. AI should handle how it gets done.**
 
-> "Launch my new service."
+Today, businesses waste countless hours switching between CRMs, accounting software, email, calendars, project management tools, payment systems, marketing platforms, and spreadsheets. Human Intent AI replaces fragmented workflows with a single intelligent interface capable of coordinating work across existing tools.
 
-The system plans, coordinates, executes, and reports back.
+The first customers are small and medium-sized businesses.
 
----
+Instead of hiring multiple specialists or juggling many SaaS products, business owners can simply say:
 
-# Phase 1 (Months 0–6)
+* "Grow my business."
+* "Find new customers."
+* "Send every overdue invoice reminder."
+* "Prepare tomorrow's meetings."
+* "Hire a designer."
+* "Launch a marketing campaign."
 
-## Build Trust
+The AI understands the intent, breaks it into tasks, executes the work, reports progress, and continuously improves through feedback.
 
-**Product: AI Meeting & Client Prep**
+As the platform grows, specialized capabilities are added while maintaining the same interface. Sales, marketing, hiring, finance, customer support, scheduling, reporting, research, operations, and automation become skills of one AI rather than separate applications.
 
-### Goal
+One of the most powerful capabilities is **Vault**, the platform's financial intelligence engine.
 
-Become indispensable before every client meeting.
+Vault continuously protects the financial interests of businesses by identifying unpaid invoices, duplicate payments, unnecessary subscriptions, supplier overcharges, missed refunds, tax-saving opportunities, billing mistakes, and other recoverable losses. Rather than reacting after money is lost, Vault becomes a proactive financial advocate that helps businesses save and recover money automatically wherever possible.
 
-### Features
+Over time, Vault expands beyond businesses to individuals, helping people identify unfair fees, billing errors, forgotten refunds, and other opportunities to improve their financial health. It evolves into a trusted financial companion that works in the background to protect users' interests.
 
-* Connect Gmail
-* Connect Google Calendar
-* Connect Google Drive
-* Generate meeting briefs
-* Draft follow-up emails
-* Store meeting history
+As trust grows, Human Intent AI expands beyond business operations into everyday life.
 
-### Customers
+Individuals no longer think in terms of apps. Instead, they express intentions:
 
-* Agencies
-* Consultants
-* Freelancers
+* "Plan my vacation."
+* "Buy my first home."
+* "Organize my finances."
+* "Find a better insurance policy."
+* "Recover money I'm owed."
+* "Prepare me for tomorrow's interview."
+* "Manage my family's schedule."
 
-### Revenue
+The AI coordinates the necessary services, information, and actions to achieve the desired outcome.
 
-$49–99/month
+Ultimately, Human Intent AI becomes the universal execution layer between humans and digital systems. Existing applications continue to exist, but users interact primarily with one intelligent platform that understands goals rather than commands.
 
-### What you're really building
+The long-term ambition is not to replace every application overnight. It is to become the trusted intelligence layer that connects them, simplifies them, and gradually removes the complexity of modern software.
 
-* Authentication
-* Google integrations
-* User memory
-* First AI workflow
-* Trust
+The future of computing is not opening more apps.
 
----
+The future is expressing intent.
 
-# Phase 2 (Months 6–18)
-
-## Build Memory
-
-The AI stops helping with meetings only.
-
-It starts remembering everything.
-
-User asks:
-
-> "What's happening with Acme?"
-
-The AI knows.
-
-### Features
-
-* Client memory
-* Conversation history
-* Project timeline
-* Decision history
-* Search across company knowledge
-
-Now your product becomes:
-
-> AI Client Operations
-
-Revenue:
-
-$99–199/month
-
----
-
-# Phase 3 (Year 2)
-
-## Build Actions
-
-The AI begins doing work.
-
-Instead of:
-
-> "Here's your meeting summary."
-
-It asks:
-
-> "Would you like me to send the follow-up?"
-
-Then:
-
-* drafts proposals
-* schedules meetings
-* creates tasks
-* updates CRM
-* creates invoices
-
-The user approves.
-
-Revenue:
-
-$199–399/month
-
----
-
-# Phase 4 (Years 2–3)
-
-## Build Workflows
-
-Instead of one action...
-
-The AI executes sequences.
-
-User:
-
-> "Onboard this client."
-
-AI:
-
-* create folder
-* schedule kickoff
-* create project
-* invite team
-* generate contract
-* prepare invoice
-
-The user watches.
-
-Revenue:
-
-$300–800/month
-
----
-
-# Phase 5 (Years 3–5)
-
-## Build Business Operations
-
-The AI now understands the business.
-
-User:
-
-> "How are we doing?"
-
-The AI checks:
-
-* revenue
-* meetings
-* sales
-* projects
-* invoices
-* customer satisfaction
-
-Then recommends actions.
-
-Now you're no longer solving meetings.
-
-You're helping run businesses.
-
----
-
-# Phase 6 (Years 5–7)
-
-## Multi-Agent System
-
-Instead of one AI...
-
-Create specialized workers.
-
-Example:
-
-```
-CEO AI
-
-├── Sales AI
-├── Marketing AI
-├── Finance AI
-├── Operations AI
-└── Customer Success AI
-```
-
-Each has:
-
-* memory
-* tools
-* goals
-
-The CEO AI coordinates them.
-
----
-
-# Phase 7 (Years 7–10)
-
-## Intent Operating System
-
-Apps disappear.
-
-The user says:
-
-> "Expand into Kenya."
-
-The system:
-
-* researches regulations
-* prepares documents
-* finds partners
-* estimates costs
-* creates a launch plan
-* coordinates execution
-* reports progress
-
-The apps still exist.
-
-The user never sees them.
-
----
-
-# Technology Roadmap
-
-### Stage 1
-
-* GPT/Claude
-* FastAPI
-* React
-* Supabase
-* LangGraph
-* Google APIs
-
----
-
-### Stage 2
-
-Add:
-
-* Vector memory
-* Better retrieval
-* Client knowledge graph
-
----
-
-### Stage 3
-
-Add:
-
-* More integrations
-* Background jobs
-* Approval workflows
-
----
-
-### Stage 4
-
-Add:
-
-* Workflow engine
-* Long-running tasks
-* Monitoring
-
----
-
-### Stage 5
-
-Add:
-
-* Multiple AI workers
-* Shared memory
-* Planning engine
-
----
-
-### Stage 6
-
-Replace workflow automation with:
-
-Intent
-
-↓
-
-Planning
-
-↓
-
-Execution
-
-↓
-
-Reflection
-
-↓
-
-Learning
-
----
-
-# Business Roadmap
-
-Start with one niche.
-
-```
-Agency Owners
-
-↓
-
-Consultants
-
-↓
-
-Freelancers
-
-↓
-
-Small Businesses
-
-↓
-
-Startups
-
-↓
-
-Mid-size Companies
-
-↓
-
-Enterprise
-```
-
-Don't jump between markets.
-
-Become dominant in one before expanding.
-
----
-
-# The Capability Roadmap
-
-Notice what you're really building.
-
-```
-Meeting Preparation
-
-↓
-
-Client Context
-
-↓
-
-Business Memory
-
-↓
-
-Business Actions
-
-↓
-
-Business Automation
-
-↓
-
-Business Coordination
-
-↓
-
-Intent Coordination
-
-↓
-
-Intent Operating System
-```
-
-Every stage adds one new capability.
-
-Nothing is thrown away.
-
-Everything compounds.
-
----
-
-# The One Principle I Would Never Break
-
-Never build features because they sound impressive.
-
-Build capabilities.
-
-Every capability should answer this question:
-
-> **"Does this move me closer to a world where humans stop operating software and start expressing intent?"**
-
-If the answer is **yes**, build it.
-
-If the answer is **no**, even if customers ask for it, think carefully before adding it.
-
-That's how you avoid becoming "another productivity app" and instead steadily build toward an Intent Operating System.
-
-Yes. In fact, **that's the strategy I would recommend**.
-
-The important shift is this:
-
-> **Don't fund the vision first. Let customers fund the vision.**
-
-Think of it as climbing a staircase where each step:
-
-1. solves a real problem,
-2. generates revenue,
-3. funds the next step,
-4. adds a capability you'll need for the Intent OS.
-
-For example:
-
-| Stage | Product                   | Monthly Price                 | Purpose                                |
-| ----- | ------------------------- | ----------------------------- | -------------------------------------- |
-| 1     | AI Meeting Prep           | $49–99                        | Validate demand and earn first revenue |
-| 2     | AI Client Memory          | $99–199                       | Build persistent business context      |
-| 3     | AI Follow-up & Automation | $199–399                      | Introduce safe execution               |
-| 4     | AI Business Operator      | $300–800                      | Coordinate multiple workflows          |
-| 5     | Intent Operating System   | Enterprise / platform pricing | Coordinate business goals              |
-
-As revenue grows, you reinvest it into:
-
-* better AI models,
-* more integrations,
-* infrastructure,
-* engineering,
-* product design,
-* customer support.
-
-This approach has several advantages:
-
-* You validate each assumption before investing heavily.
-* Customers tell you what they actually value.
-* Revenue reduces dependence on investors.
-* Every feature contributes toward your long-term architecture.
-
-One thing I'd be careful about is **not trying to maximize short-term revenue at the expense of the vision**. It's tempting to keep adding unrelated customer requests until you become another CRM or project management tool.
-
-Instead, ask for every feature:
-
-> **"Does this strengthen my ability to understand intent, remember context, plan work, or execute actions?"**
-
-If yes, it's moving you toward the Intent OS.
-
-If no, it may generate some revenue now but could pull you away from your long-term goal.
-
-The strongest companies often look like this in hindsight:
-
-* They started with a narrow, valuable product.
-* That product generated cash.
-* The cash funded the next capability.
-* Over years, those capabilities compounded into a platform.
-
-That's a much more sustainable path than spending years building the entire platform before anyone is willing to pay for it.
-
+**You decide what you want. Human Intent AI makes it happen.**
